@@ -1,7 +1,7 @@
 expression-evaluator-demo
 =========================
 
-Aa general purpose java library which offers excel or Google spreadsheet like formula/ expression support. The library also allows easy addition of new functions.
+A general purpose java library which offers excel or Google spreadsheet like formula/ expression support. The library also allows easy addition of new functions.
 
 The project contains examples\ tests to demonstrate what is already on offer and also give some examples to extend or add new functionality. The sequence of topics is as below:
 
@@ -117,9 +117,4 @@ A new class is loaded for every new instance of expression - this leads to a sli
 
 As you may have guessed all the functions can be used in conjunction so feel free to explore. All the tests mentioned in the examples above can be found in this maven project.
 
-Do let me know your experience and any feedback you may have.
-
-
-
-
-
+Do let me know your experience and any questions or feedback you may have.
