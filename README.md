@@ -1,3 +1,5 @@
+https://travis-ci.org/Shy-Ta/expression-evaluator-demo.svg
+
 expression-evaluator-demo
 =========================
 
