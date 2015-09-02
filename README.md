@@ -1,4 +1,4 @@
-![Alt Text] (https://travis-ci.org/Shy-Ta/expression-evaluator-demo.svg)
+#####Continuous Integration (Travis CI) Status: ![Alt Text] (https://travis-ci.org/Shy-Ta/expression-evaluator-demo.svg)
 
 expression-evaluator-demo
 =========================
