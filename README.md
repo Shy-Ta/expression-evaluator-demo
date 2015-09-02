@@ -1,7 +1,7 @@
-#####Continuous Integration (Travis CI) Status: ![Alt Text] (https://travis-ci.org/Shy-Ta/expression-evaluator-demo.svg)
+Expression Evaluator (Demo)
+===========================
 
-expression-evaluator-demo
-=========================
+[![Build Status](https://travis-ci.org/Shy-Ta/expression-evaluator-demo.svg?branch=master)](https://travis-ci.org/Shy-Ta/expression-evaluator-demo)
 
 A general purpose java library which offers excel or Google spreadsheet like formula/ expression support. The library also allows easy addition of new functions.
 
