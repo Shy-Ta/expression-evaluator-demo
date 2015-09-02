@@ -1,4 +1,4 @@
-https://travis-ci.org/Shy-Ta/expression-evaluator-demo.svg
+![Alt Text] (https://travis-ci.org/Shy-Ta/expression-evaluator-demo.svg)
 
 expression-evaluator-demo
 =========================
